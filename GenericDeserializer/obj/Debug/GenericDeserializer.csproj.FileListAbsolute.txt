@@ -1,0 +1,4 @@
+C:\git\generic-deserializer\GenericDeserializer\bin\Debug\GenericDeserializer.dll
+C:\git\generic-deserializer\GenericDeserializer\bin\Debug\GenericDeserializer.pdb
+C:\git\generic-deserializer\GenericDeserializer\obj\Debug\GenericDeserializer.dll
+C:\git\generic-deserializer\GenericDeserializer\obj\Debug\GenericDeserializer.pdb
