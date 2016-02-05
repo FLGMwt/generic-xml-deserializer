@@ -1,4 +1,0 @@
-C:\git\generic-deserializer\GenericDeserializer\bin\Release\GenericDeserializer.dll
-C:\git\generic-deserializer\GenericDeserializer\bin\Release\GenericDeserializer.pdb
-C:\git\generic-deserializer\GenericDeserializer\obj\Release\GenericDeserializer.dll
-C:\git\generic-deserializer\GenericDeserializer\obj\Release\GenericDeserializer.pdb
